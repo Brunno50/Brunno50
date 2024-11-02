@@ -33,3 +33,5 @@ Apaixonado por tecnologia.
 - [Landing page Clube da luta - HTML + CSS +  Bootstrap 5](https://github.com/BrunnoWin/Landing-page-Clube-da-luta-HTML-CSS-jJS-Bootstrap-5)<br/>
 - [Sistema de Condominios - Python + Sqlite + Tkinter](https://github.com/BrunnoWin/Projetos-em-Python-Tkinter)<br/>
 
+
+![Snake animation](https://github.com/Brunno50/Brunno50/blob/output/github-contribution-grid-snake.svg)
