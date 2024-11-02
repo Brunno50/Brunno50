@@ -25,7 +25,6 @@
 
 
 
-
 Apaixonado por tecnologia.
 ### Últimos Projetos:
 - [ Login Responsivo - PHP com MSQL](https://github.com/BrunnoWin/Login-Cadastro-Responsivo-PHP-MSQL)<br/>
@@ -34,4 +33,3 @@ Apaixonado por tecnologia.
 - [Sistema de Condominios - Python + Sqlite + Tkinter](https://github.com/BrunnoWin/Projetos-em-Python-Tkinter)<br/>
 
 
-![Snake animation](https://github.com/Brunno50/Brunno50/blob/output/github-contribution-grid-snake.svg)
